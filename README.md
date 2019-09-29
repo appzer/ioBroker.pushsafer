@@ -1,4 +1,4 @@
-![Logo](admin/pushsafer.png)
+<img src="https://www.pushsafer.com/de/assets/logos/logo.png" alt="Pushsafer" width="350">
 
 ioBroker pushsafer Adapter
 ==============
